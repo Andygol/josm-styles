@@ -17,18 +17,18 @@ meta[lang=ru] {
 
 *|z-12[eval(JOSM_search("timestamp:2016-01/"))] {
   casing-width: 4;
-  casing-color: #adff00;
+  casing-color: #ff7a00;
   casing-opacity: 0.2
 }
 
 *|z13-18[eval(JOSM_search("timestamp:2016-01/"))] {
   casing-width: 5;
-  casing-color: #adff00;
+  casing-color: #ff7a00;
   casing-opacity: 0.2
 }
 
 *|z19-[eval(JOSM_search("timestamp:2016-01/"))] {
   casing-width: 10;
-  casing-color: #adff00;
+  casing-color: #ff7a00;
   casing-opacity: 0.2
 }
