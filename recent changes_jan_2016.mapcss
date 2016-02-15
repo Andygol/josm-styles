@@ -3,7 +3,7 @@ meta {
   description: "Highlights features that were created/modified in Jan 2016 year";
   author: "Andygol";
   watch-modified: true;
-  version: "0.1";
+  version: "0.2";
 }
 meta[lang=uk] {
   title: "Нещодавні зміни (Січ 2016)";
@@ -15,20 +15,20 @@ meta[lang=ru] {
   description: "Подсвечивает объекты, созданные/изменённые в январе 2016 года";
 }
 
-*|z-12[eval(JOSM_search("timestamp:2016-01/"))] {
+*|z-12[eval(JOSM_search("timestamp:2016-01"))] {
   casing-width: 4;
-  casing-color: #ff7a00;
+  casing-color: #ffd600;
   casing-opacity: 0.2
 }
 
-*|z13-18[eval(JOSM_search("timestamp:2016-01/"))] {
+*|z13-18[eval(JOSM_search("timestamp:2016-01"))] {
   casing-width: 5;
-  casing-color: #ff7a00;
+  casing-color: #ffd600;
   casing-opacity: 0.2
 }
 
-*|z19-[eval(JOSM_search("timestamp:2016-01/"))] {
+*|z19-[eval(JOSM_search("2016-01"))] {
   casing-width: 10;
-  casing-color: #ff7a00;
+  casing-color: #ffd600;
   casing-opacity: 0.2
 }

@@ -6,3 +6,5 @@ modified in 2015 year
 modified in 2016 year
 *   `recent changes_jan_2016.mapcss` -- Highlights features that were created/
 modified in Jan 2016 year
+*   `recent changes_feb_2016.mapcss` -- Highlights features that were created/
+modified in Feb 2016 year
