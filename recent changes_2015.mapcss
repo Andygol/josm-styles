@@ -1,17 +1,17 @@
 meta {
-  title: "Created in 2015 year";
+  title: "Recent changes (2015)";
   description: "Highlights features that were created/modified in 2015 year";
   author: "Andygol";
   watch-modified: true;
-  version: "0.1";
+  version: "0.2";
 }
 meta[lang=uk] {
-  title: "Створено у 2015 році";
+  title: "Нещодавні зміни (2015)";
   description: "Підсвічує об’єкти, створені/змінені у 2015 році";
 }
 
 meta[lang=ru] {
-  title: "Создано в 2015 году";
+  title: "Недавние изменения (2015)";
   description: "Подсвечивает объекты, созданные/изменённые в 2015 году";
 }
 
